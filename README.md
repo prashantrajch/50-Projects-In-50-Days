@@ -6,8 +6,8 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 
 | Day  | Project                  | Status  | Live Demo | Source Code |
 |------|--------------------------|---------|-----------|-------------|
-| Day 1| [Expanding Cards](#day-1-expanding-cards) | ✅ Completed | [Live Demo](#) | [Code](#) |
-| Day 2| Coming soon...            | ⏳ In Progress | N/A | N/A |
+| Day 1| [Expanding Cards](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) | ✅ Completed | [Live Demo](#) | [Code](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
+| Day 2| [Progress Step](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 3| Coming soon...            | ⏳ In Progress | N/A | N/A |
 | Day 4| Coming soon...            | ⏳ In Progress | N/A | N/A |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -31,13 +31,25 @@ Interactive cards that expand on click, revealing additional content. The projec
 - HTML, CSS, JavaScript
 
 **Live Demo:** [Link to live demo](#)  
-**Source Code:** [Link to GitHub repository](#)
+**Source Code:** [Link to GitHub repository](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
 
 ---
 
-### Day 2: [Coming soon...]
+### Day 2: Progress Steps
 
-_Update this section once the project is completed._
+**Description:**  
+A progress bar component that visually tracks the progress of steps. Users can move between steps using **Next** and **Prev** buttons.
+
+**Features:**
+- Dynamic progress bar that fills based on the current step.
+- Active/inactive step states based on user input.
+- Buttons become disabled when reaching the first or last step.
+
+**Technologies Used:**
+- HTML, CSS, JavaScript
+
+**Live Demo:** [Link to live demo](#)  
+**Source Code:** [Link to GitHub repository](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
 
 ---
 
@@ -60,5 +72,6 @@ I took on this challenge to:
 ## 🔥 Follow My Progress
 
 I’ll be updating this repository daily with new projects. Follow along and check out my progress!
+
 
 
