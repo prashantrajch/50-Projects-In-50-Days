@@ -8,7 +8,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |------|--------------------------|---------|-----------|-------------|
 | Day 1| [Expanding Cards](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 2| [Progress Step](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
-| Day 3| [Rotating Navigation] (https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code] 9https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation |
+| Day 3| [Rotating Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation) |
 | Day 4| Coming soon...            | ⏳ In Progress | N/A | N/A |
 | ...  | ...                      | ...     | ...       | ...         |
 | Day 50| Coming soon...           | ⏳ In Progress | N/A | N/A |
@@ -92,11 +92,11 @@ I took on this challenge to:
 
 I’ll be updating this repository daily with new projects. Follow along and check out my progress!
 
-• [LinkedIn] (https://www.linkedin.com/in/prashantrajch/)
-• [GitHub] (https://github.com/prashantrajch)
+• [LinkedIn](https://www.linkedin.com/in/prashantrajch/)
+• [GitHub](https://github.com/prashantrajch)
 
 Stay tuned for more exciting projects!
 
 
 
-**Note:** This repository is inspired by the [50 Projects in 50 Days - HTML/CSS and JavaScript by Brad Traversy & Florin Pop] (https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript/tree/main)
+**Note:** This repository is inspired by the [50 Projects in 50 Days - HTML/CSS and JavaScript by Brad Traversy & Florin Pop](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript/tree/main)
