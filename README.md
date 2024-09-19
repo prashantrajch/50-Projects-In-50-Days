@@ -6,9 +6,9 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 
 | Day  | Project                  | Status  | Live Demo | Source Code |
 |------|--------------------------|---------|-----------|-------------|
-| Day 1| [Expanding Cards](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) | ✅ Completed | [Live Demo](#) | [Code](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
-| Day 2| [Progress Step](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
-| Day 3| Coming soon...            | ⏳ In Progress | N/A | N/A |
+| Day 1| [Expanding Cards](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
+| Day 2| [Progress Step](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
+| Day 3| [Rotating Navigation] (https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code] 9https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation |
 | Day 4| Coming soon...            | ⏳ In Progress | N/A | N/A |
 | ...  | ...                      | ...     | ...       | ...         |
 | Day 50| Coming soon...           | ⏳ In Progress | N/A | N/A |
@@ -31,7 +31,7 @@ Interactive cards that expand on click, revealing additional content. The projec
 - HTML, CSS, JavaScript
 
 **Live Demo:** [Link to live demo](#)  
-**Source Code:** [Link to GitHub repository](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
+**Source Code:** [Link to GitHub repository](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
 
 ---
 
@@ -49,7 +49,25 @@ A progress bar component that visually tracks the progress of steps. Users can m
 - HTML, CSS, JavaScript
 
 **Live Demo:** [Link to live demo](#)  
-**Source Code:** [Link to GitHub repository](#https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
+**Source Code:** [Link to GitHub repository](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)
+
+---
+
+### Day 3: Rotating Navigation
+
+**Description:**  
+An animated navigation menu that rotates the page content when opened or closed. The navigation icons slide into view with smooth transitions, providing a unique user experience.
+
+**Features:**
+- `transform-origin` and `rotate()` animations for smooth page rotation.
+- Interactive buttons for opening and closing the navigation.
+- Navigation menu slides into view with delayed animations for each item.
+
+**Technologies Used:**
+- HTML, CSS, JavaScript
+
+**Live Demo:** [Link to live demo](#)  
+**Source Code:** [Link to GitHub repository](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)
 
 ---
 
@@ -65,13 +83,20 @@ I took on this challenge to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/50-Projects-In-50-Days
+   git clone https://github.com/prashantrajch/50-Projects-In-50-Days
 
 2. Navigate to the project folder and open the index.html file of any project in a browser.
+
 
 ## 🔥 Follow My Progress
 
 I’ll be updating this repository daily with new projects. Follow along and check out my progress!
 
+• [LinkedIn] (https://www.linkedin.com/in/prashantrajch/)
+• [GitHub] (https://github.com/prashantrajch)
+
+Stay tuned for more exciting projects!
 
 
+
+**Note:** This repository is inspired by the [50 Projects in 50 Days - HTML/CSS and JavaScript by Brad Traversy & Florin Pop] (https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript/tree/main)
