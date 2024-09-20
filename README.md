@@ -9,7 +9,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 1| [Expanding Cards](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 2| [Progress Step](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 3| [Rotating Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation) |
-| Day 4| Coming soon...            | ⏳ In Progress | N/A | N/A |
+| Day 4| [Hidden Search Widget](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget) |
 | ...  | ...                      | ...     | ...       | ...         |
 | Day 50| Coming soon...           | ⏳ In Progress | N/A | N/A |
 
@@ -68,6 +68,23 @@ An animated navigation menu that rotates the page content when opened or closed.
 
 **Live Demo:** [Link to live demo](#)  
 **Source Code:** [Link to GitHub repository](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)
+
+---
+
+### Day 4 - Hidden Search Widget
+A simple widget that expands the search input when the search button is clicked.
+
+**Tech used:** 
+- HTML
+- CSS
+- JavaScript
+
+**Project Details:**
+- A compact search bar that expands on click, giving a clean look to the UI.
+- Smooth transitions using CSS for expanding and collapsing the input field.
+- Simple JavaScript logic to toggle the `active` class.
+
+[View the Project](#) | [Source Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)
 
 ---
 
