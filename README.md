@@ -10,6 +10,13 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 2| [Progress Step](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 3| [Rotating Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation) |
 | Day 4| [Hidden Search Widget](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget) |
+| Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_4/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_4/Blurry_Loading)|
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | Day 50| Coming soon...           | ⏳ In Progress | N/A | N/A |
 
@@ -85,6 +92,20 @@ A simple widget that expands the search input when the search button is clicked.
 - Simple JavaScript logic to toggle the `active` class.
 
 [View the Project](#) | [Source Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)
+
+---
+
+## Day 5: Blurring Loading
+On Day 5, I created a dynamic blurring loading animation. The background image starts out heavily blurred and gradually becomes clear as the page loads. The loading percentage fades out in sync with the background blur. 
+
+### Key Concepts:
+- **HTML**: Simple layout for the loading text and background.
+- **CSS**: Utilized CSS for background blurring and text opacity transitions.
+- **JavaScript**: Created a function to gradually reduce the blur and fade out the loading percentage.
+
+[View the project here](#) 👈
+
+[Source Code]()
 
 ---
 
