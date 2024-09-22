@@ -10,8 +10,8 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 2| [Progress Step](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_2/Progress_Steps)           | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_1/Expanding_Cards) |
 | Day 3| [Rotating Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_3/Rotating_Navigation) |
 | Day 4| [Hidden Search Widget](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget) |
-| Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_4/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_4/Blurry_Loading)|
-| ...  | ...                      | ...     | ...       | ...         |
+| Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)|
+| Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -105,7 +105,21 @@ On Day 5, I created a dynamic blurring loading animation. The background image s
 
 [View the project here](#) 👈
 
-[Source Code]()
+[Source Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)
+
+---
+
+## Day 6: Scroll Animation
+On Day 6, I created a smooth scroll animation effect. As the user scrolls down, boxes slide in from the left and right, adding a dynamic visual experience to the page.
+
+### Key Concepts:
+- **HTML**: Structured the content into individual boxes that will animate into view.
+- **CSS**: Styled the boxes and added transition effects for a smooth animation.
+- **JavaScript**: Used scroll event listeners to trigger the animation based on the position of each box relative to the viewport.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) 👈
+
+![Scroll Animation Preview](link-to-preview-image)
 
 ---
 
