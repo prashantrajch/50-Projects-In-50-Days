@@ -12,7 +12,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 4| [Hidden Search Widget](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)            | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget) |
 | Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)|
 | Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
-| ...  | ...                      | ...     | ...       | ...         |
+| Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -119,9 +119,25 @@ On Day 6, I created a smooth scroll animation effect. As the user scrolls down, 
 
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) 👈
 
-![Scroll Animation Preview](link-to-preview-image)
+[Scroll Animation Preview](link-to-preview-image)
 
 ---
+
+## Day 7: Split Landing Page
+
+On Day 7, I created a **Split Landing Page** featuring two sections: one for Playstation 5 and the other for Xbox Series X. The layout is interactive, expanding when a user hovers over each side to focus on one console. This type of landing page adds a unique, dynamic experience to the website, giving users a clear call to action.
+
+### Key Concepts:
+- **HTML & CSS**: Structured the split-page layout with responsive design elements for different screen sizes.
+- **JavaScript**: Added event listeners to trigger the CSS transitions for expanding sections on hover.
+- **Responsive Design**: Adjusted the design for both desktop and mobile viewports.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) 👈
+
+[Split Landing Page Preview](link-to-preview-image)
+
+---
+
 
 ## 💡 Why This Challenge?
 
