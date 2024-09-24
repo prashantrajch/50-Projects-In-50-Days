@@ -13,6 +13,12 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)|
 | Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
+|Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation)         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -135,6 +141,22 @@ On Day 7, I created a **Split Landing Page** featuring two sections: one for Pla
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) 👈
 
 [Split Landing Page Preview](link-to-preview-image)
+
+---
+
+## Day 8: Form Wave Animation
+
+On Day 8, I worked on a **Form Wave Animation**, focusing on enhancing a basic login form with subtle yet impactful animations. Each letter of the form's label moves in a wave-like pattern when interacting with the input field, creating an engaging and modern user experience.
+
+### Key Concepts:
+- **HTML & CSS**: Structured the form with animated labels using transition delays and cubic-bezier for smooth animation.
+- **JavaScript**: Manipulated the DOM to split label text into individual characters, allowing for staggered animations.
+- **User Interaction**: Focus on improving the form’s usability by providing visual feedback to users when interacting with input fields.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) 👈
+
+[Form Wave Animation Preview](link-to-preview-image)
+
 
 ---
 
