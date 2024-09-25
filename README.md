@@ -14,6 +14,26 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
 |Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation)         |
+|Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
+| ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -153,13 +173,26 @@ On Day 8, I worked on a **Form Wave Animation**, focusing on enhancing a basic l
 - **JavaScript**: Manipulated the DOM to split label text into individual characters, allowing for staggered animations.
 - **User Interaction**: Focus on improving the form’s usability by providing visual feedback to users when interacting with input fields.
 
-[View the project here](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) 👈
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation) 👈
 
 [Form Wave Animation Preview](link-to-preview-image)
 
-
 ---
 
+## Day 9: Sound Board
+
+For Day 9, I built a **Sound Board** that lets users play different sounds with a simple button click. The project is designed for fun and adds an interactive element to any webpage by incorporating audio.
+
+### Key Features:
+- **Dynamic Button Creation**: Each sound has its own button, dynamically created and added to the DOM using JavaScript.
+- **Audio Playback Control**: Leveraged the Audio API to play, pause, and reset sounds without any overlap.
+- **CSS Styling**: Simple but effective button design using CSS for a polished look and responsive hover/active states.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) 👈
+
+![Sound Board Preview](link-to-preview-image)
+
+---
 
 ## 💡 Why This Challenge?
 
