@@ -15,7 +15,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
 |Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation)         |
 |Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
-| ...  | ...                      | ...     | ...       | ...         |
+|Day 10|[Dad Jokes](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) |✅ Completed| N/A |[Code](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -191,6 +191,21 @@ For Day 9, I built a **Sound Board** that lets users play different sounds with 
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) 👈
 
 ![Sound Board Preview](link-to-preview-image)
+
+---
+
+## Day 10: Dad Jokes App
+
+For Day 10, I created a **Dad Jokes App** that displays random dad jokes fetched from an API. The app is interactive and allows users to generate a new joke at the click of a button.
+
+### Key Features:
+- **API Integration**: Fetches random jokes from the `icanhazdadjoke.com` API.
+- **Async/Await**: Handles asynchronous operations to fetch jokes and update the DOM.
+- **Simple UI/UX**: A clean and minimalist design with a responsive layout and interactive button.
+
+[View the project here](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) 👈
+
+![Dad Jokes App Preview](link-to-preview-image)
 
 ---
 
