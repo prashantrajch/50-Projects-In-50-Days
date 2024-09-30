@@ -15,8 +15,8 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
 |Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation)         |
 |Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
-|Day 10|[Dad Jokes](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) |✅ Completed| N/A |[Code](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) |
-| ...  | ...                      | ...     | ...       | ...         |
+|Day 10|[Dad Jokes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |
+|Day 11|[Event KeyCodes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -203,11 +203,27 @@ For Day 10, I created a **Dad Jokes App** that displays random dad jokes fetched
 - **Async/Await**: Handles asynchronous operations to fetch jokes and update the DOM.
 - **Simple UI/UX**: A clean and minimalist design with a responsive layout and interactive button.
 
-[View the project here](https:..github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Dad_Jokes) 👈
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) 👈
 
 ![Dad Jokes App Preview](link-to-preview-image)
 
 ---
+
+## Day 11: Event KeyCode App
+
+For Day 11, I created an **Event KeyCode App** that listens for keyboard events and displays the key, keyCode, and code of any pressed key.
+
+### Key Features:
+- **Keyboard Event Listener**: Captures and displays the key pressed, including its `key`, `keyCode`, and `code`.
+- **Interactive UI**: Dynamically updates the UI based on the user's keyboard input.
+- **Useful for Debugging**: This project is a great tool for developers who want to quickly check the values associated with different keys.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) 👈
+
+![Event KeyCode App Preview](link-to-preview-image)
+
+---
+
 
 ## 💡 Why This Challenge?
 
