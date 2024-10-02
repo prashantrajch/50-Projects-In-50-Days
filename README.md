@@ -17,8 +17,8 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
 |Day 10|[Dad Jokes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |
 |Day 11|[Event KeyCodes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
+|Day 12|[FAQ Collapse](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |
+|Day 13|[Random Choice Picker](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -117,7 +117,9 @@ A simple widget that expands the search input when the search button is clicked.
 - Smooth transitions using CSS for expanding and collapsing the input field.
 - Simple JavaScript logic to toggle the `active` class.
 
-[View the Project](#) | [Source Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)
+[View the Project](#)
+
+[Source Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_4/Hidden_Search_Widget)
 
 ---
 
@@ -224,6 +226,35 @@ For Day 11, I created an **Event KeyCode App** that listens for keyboard events 
 
 ---
 
+## Day 12: FAQ Collapse Component
+
+On Day 12, I built an **FAQ Collapse Component** where users can click on questions to reveal answers. This component is highly interactive and provides a seamless user experience.
+
+### Key Features:
+- **Toggle FAQ Visibility**: Each FAQ section can be expanded or collapsed with a button click.
+- **Smooth Transitions**: The transitions between states are smooth and visually appealing.
+- **Unique Icons**: Icons change dynamically depending on the collapsed or expanded state using Font Awesome.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) 👈
+
+![FAQ Collapse Component Preview](link-to-preview-image)
+
+---
+
+## Day 13: Random Choice Picker
+
+On Day 13, I created a **Random Choice Picker**. Users can input a list of options, and the app will randomly select one.
+
+### Key Features:
+- **Interactive Tags**: Each input is split into multiple tags that represent individual choices.
+- **Random Selection**: The app randomly cycles through the choices and then picks one, providing a smooth and engaging user experience.
+- **Dynamic Feedback**: Visual feedback is provided through highlights, making the process fun and visually appealing.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) 👈
+
+![Random Choice Picker Preview](link-to-preview-image)
+
+---
 
 ## 💡 Why This Challenge?
 
