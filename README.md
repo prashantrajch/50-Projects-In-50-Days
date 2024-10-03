@@ -19,7 +19,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 11|[Event KeyCodes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) |
 |Day 12|[FAQ Collapse](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |
 |Day 13|[Random Choice Picker](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) |
-| ...  | ...                      | ...     | ...       | ...         |
+|Day 14|[Aimated Navigation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) |✅ Completed|N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation)|
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -253,6 +253,21 @@ On Day 13, I created a **Random Choice Picker**. Users can input a list of optio
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) 👈
 
 ![Random Choice Picker Preview](link-to-preview-image)
+
+---
+
+## Day 14: Animated Navigation
+
+On Day 14, I created an **Animated Navigation** bar that smoothly expands when a toggle button is clicked.
+
+### Key Features:
+- **Animated Expansion**: The navigation bar transitions from a compact form to a full-width view with smooth animations.
+- **Item Animations**: Menu items rotate and fade in when the navigation expands, adding an elegant touch.
+- **Interactive Button**: The toggle button is animated to indicate when the navigation is open or closed.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) 👈
+
+![Animated Navigation Preview](link-to-preview-image)
 
 ---
 
