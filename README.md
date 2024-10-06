@@ -20,7 +20,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 12|[FAQ Collapse](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_12/FAQ_Collapse) |
 |Day 13|[Random Choice Picker](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) |
 |Day 14|[Aimated Navigation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) |✅ Completed|N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation)|
-| ...  | ...                      | ...     | ...       | ...         |
+|Day 15|[Incrementing Counter](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
 | ...  | ...                      | ...     | ...       | ...         |
@@ -268,6 +268,20 @@ On Day 14, I created an **Animated Navigation** bar that smoothly expands when a
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) 👈
 
 ![Animated Navigation Preview](link-to-preview-image)
+
+---
+
+## Day 15: Incrementing Counter
+
+On Day 15, I created an **Incrementing Counter** that dynamically displays follower counts for various social media platforms, animating the numbers from 0 to their respective targets.
+
+### Key Features:
+- **Dynamic Count Animation**: The counter smoothly increments to the target number for each platform.
+- **Responsive Design**: The layout adapts to different screen sizes for a consistent user experience.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) 👈
+
+![Incrementing Counter Preview](link-to-preview-image)
 
 ---
 
