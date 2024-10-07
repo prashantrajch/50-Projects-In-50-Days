@@ -21,30 +21,41 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 13|[Random Choice Picker](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_13/Random_Choice_Picker) |
 |Day 14|[Aimated Navigation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) |✅ Completed|N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation)|
 |Day 15|[Incrementing Counter](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| ...  | ...                      | ...     | ...       | ...         |
-| Day 50| Coming soon...           | ⏳ In Progress | N/A | N/A |
+|Day 16|[Drink Water](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)| ✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)|
+|Day 17| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 18| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 19| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 20| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 21| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 22| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 23| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 24| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 25| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 26| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 27| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 28| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 29| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 30| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 31| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 32| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 33| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 34| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 35| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 36| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 37| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 38| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 39| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 40| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 41| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 42| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 43| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 44| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 45| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 46| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 47| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 48| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 49| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 50| Coming Soon| ⏳ In Progress | N/A | N/A |
 
 ---
 
@@ -282,6 +293,21 @@ On Day 15, I created an **Incrementing Counter** that dynamically displays follo
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) 👈
 
 ![Incrementing Counter Preview](link-to-preview-image)
+
+---
+
+## Day 16: Drink Water Tracker
+
+For Day 16, I developed a **Drink Water Tracker**. The app allows users to track their daily water intake by clicking on small water glasses, which visually fill up as the user reaches their daily goal.
+
+### Key Features:
+- **Dynamic Progress Display**: Water cups fill up as they are clicked, and the tracker shows the percentage of the 2-liter goal achieved.
+- **Responsive UI**: The layout adjusts for various screen sizes, providing a seamless experience on both desktop and mobile.
+- **CSS Transitions**: Smooth animations make the filling process visually appealing.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water) 👈
+
+![Drink Water Tracker Preview](link-to-preview-image)
 
 ---
 
