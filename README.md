@@ -22,7 +22,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 14|[Aimated Navigation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) |✅ Completed|N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation)|
 |Day 15|[Incrementing Counter](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |
 |Day 16|[Drink Water](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)| ✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)|
-|Day 17| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 17|[Movies App](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App)|✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App) |
 |Day 18| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 19| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 20| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -308,6 +308,22 @@ For Day 16, I developed a **Drink Water Tracker**. The app allows users to track
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water) 👈
 
 ![Drink Water Tracker Preview](link-to-preview-image)
+
+---
+
+## Day 17: Movies App
+
+For Day 17, I created a **Movies App** that fetches movie data from the **TMDb API**. It displays the most popular movies by default and allows users to search for specific titles. The app shows the movie's poster, rating, and overview.
+
+### Key Features:
+- **TMDb API**: Used the API to get movie data and displayed it dynamically on the page.
+- **Rating System**: Added a color-coded rating system for movies based on their average rating.
+- **Responsive Design**: The layout adapts to different screen sizes for a better user experience.
+- **Search Functionality**: Users can search for movies by entering keywords in the search bar.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App) 👈
+
+![Movies App Preview](link-to-preview-image)
 
 ---
 
