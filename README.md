@@ -22,8 +22,8 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 14|[Aimated Navigation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation) |✅ Completed|N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_14/Animated_Navigation)|
 |Day 15|[Incrementing Counter](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_15/Incrementing_Counter) |
 |Day 16|[Drink Water](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)| ✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)|
-|Day 17|[Movies App](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App)|✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App) |
-|Day 18| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 17|[Movies App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App)|✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App) |
+|Day 18|[Background Slider](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)| ✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)|
 |Day 19| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 20| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 21| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -321,9 +321,24 @@ For Day 17, I created a **Movies App** that fetches movie data from the **TMDb A
 - **Responsive Design**: The layout adapts to different screen sizes for a better user experience.
 - **Search Functionality**: Users can search for movies by entering keywords in the search bar.
 
-[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_17/Movies_App) 👈
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App) 👈
 
 ![Movies App Preview](link-to-preview-image)
+
+---
+
+## Day 18: Background Slider
+
+For Day 18, I created a **Background Slider** that allows users to navigate through a series of stunning background images. The slider includes left and right buttons for navigation, and the active image becomes the background of the page.
+
+### Key Features:
+- **Image Slider**: Clickable arrows to cycle through images.
+- **Dynamic Background**: The page background changes according to the currently active slide.
+- **Responsive Design**: The layout adapts to fit various screen sizes.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider) 👈
+
+[![Background Slider Preview](./assets/videos/Background_Slider.mkv)]
 
 ---
 
