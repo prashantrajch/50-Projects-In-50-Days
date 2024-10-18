@@ -338,7 +338,7 @@ For Day 18, I created a **Background Slider** that allows users to navigate thro
 
 [View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider) 👈
 
-[![Background Slider Preview](./assets/videos/Background_Slider.mkv)]
+![Background Slider Preview](https://github.com/user-attachments/assets/859419d5-0bce-4a8a-9dc7-2efe9ba26e1e)
 
 ---
 
