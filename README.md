@@ -24,7 +24,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 16|[Drink Water](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)| ✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_16/Drink_Water)|
 |Day 17|[Movies App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App)|✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App) |
 |Day 18|[Background Slider](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)| ✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)|
-|Day 19| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 19|[Theme Clock](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock)|✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock) |
 |Day 20| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 21| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 22| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -341,6 +341,26 @@ For Day 18, I created a **Background Slider** that allows users to navigate thro
 ![Background Slider Preview](https://github.com/user-attachments/assets/859419d5-0bce-4a8a-9dc7-2efe9ba26e1e)
 
 ---
+
+## Day 19 - Theme Clock ⏰
+
+This project is a dynamic clock that displays the current time and allows users to switch between dark and light modes. The clock updates every second, and the time is visually represented by rotating needles for hours, minutes, and seconds.
+
+### Key Features:
+- Real-time clock with smooth transitions for needle movements.
+- Theme toggle button to switch between light and dark modes.
+- Uses CSS and vanilla JavaScript for creating an interactive clock.
+
+### What I Learned:
+- Mapping time values to rotation angles using a `scale()` function.
+- DOM manipulation to update time every second.
+- CSS transitions for creating smooth, realistic needle movements.
+
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock) 👈
+
+![Theme Clock](https://github.com/user-attachments/assets/93e80cce-f00a-4490-8f8f-bb467d789a60)
+
 
 ## 💡 Why This Challenge?
 
