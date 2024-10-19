@@ -25,7 +25,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 17|[Movies App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App)|✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_17/Movie_App) |
 |Day 18|[Background Slider](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)| ✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)|
 |Day 19|[Theme Clock](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock)|✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock) |
-|Day 20| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 20|[Button Ribble Effect](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|
 |Day 21| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 22| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 23| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -361,6 +361,28 @@ This project is a dynamic clock that displays the current time and allows users 
 
 ![Theme Clock](https://github.com/user-attachments/assets/93e80cce-f00a-4490-8f8f-bb467d789a60)
 
+---
+
+## Day 20 - Button Ripple Effect 💧
+
+This project adds an interactive ripple effect to a button. When the button is clicked, a circle expands from the click position, simulating a water ripple effect. The effect is achieved using CSS animations and JavaScript to dynamically position and create the ripple.
+
+### Key Features:
+- Button click triggers a smooth ripple animation.
+- Dynamic ripple creation and positioning based on the click location.
+- CSS animations to control the scale and fade-out effect of the ripple.
+
+### What I Learned:
+- Creating interactive elements with JavaScript and CSS.
+- Using `@keyframes` for smooth transitions and animations.
+- DOM manipulation for real-time element creation and removal.
+
+
+[View the project here](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect) 👈
+
+![Button Ribble Effect](https://github.com/user-attachments/assets/9ea83061-2d3b-4617-8c20-e77e16430132)
+
+---
 
 ## 💡 Why This Challenge?
 
