@@ -26,7 +26,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 18|[Background Slider](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)| ✅ Complete | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_18/Background_Slider)|
 |Day 19|[Theme Clock](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock)|✅ Complete| N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_19/Theme_Clock) |
 |Day 20|[Button Ribble Effect](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|
-|Day 21| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 21|[Drag N Drop](https://github.com/PrashantRaj/50-Projects-IN-50-Days/tree/main/Day_21/Drag_N_Drop)| ✅ Completed | N/A |[Code](https://github.com/PrashantRaj/50-Projects-IN-50-Days/tree/main/Day_21/Drag_N_Drop) |
 |Day 22| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 23| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 24| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -383,6 +383,21 @@ This project adds an interactive ripple effect to a button. When the button is c
 ![Button Ribble Effect](https://github.com/user-attachments/assets/9ea83061-2d3b-4617-8c20-e77e16430132)
 
 ---
+
+## Day 21: Drag N Drop
+
+On Day 21, I created a **Drag N Drop** feature that allows users to drag an image into designated empty boxes, enhancing interactivity and user experience.
+
+### Key Features:
+- **HTML5 Drag and Drop API**: Utilized to facilitate the dragging and dropping of elements seamlessly.
+- **Visual Feedback**: Styled the interface with CSS to provide clear visual cues when items are dragged over the empty boxes.
+
+[View the project here](https://github.com/PrashantRaj/50-Projects-IN-50-Days/tree/main/Day_21/Drag_N_Drop) 👈
+
+![Drag N Drop](https://github.com/user-attachments/assets/bebf066f-4be8-4f19-b5c3-9351d46e84e7)
+
+---
+
 
 ## 💡 Why This Challenge?
 
