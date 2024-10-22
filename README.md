@@ -28,7 +28,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 20|[Button Ribble Effect](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|
 |Day 21|[Drag N Drop](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop) |
 |Day 22|[Drawing App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) |
-|Day 23| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 23|[Kinetic CSS Loader] (https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|
 |Day 24| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 25| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 26| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -410,6 +410,21 @@ On Day 22, I created a **Drawing App** that allows users to draw on a canvas usi
 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) 👈
 
 ![Drawing App](https://github.com/user-attachments/assets/ebfe0060-5422-4a28-8eb6-1ad7f7070273)
+
+----
+
+## Day 23: Kinetic CSS Loader
+
+On Day 23, I created a **Kinetic CSS Loader**, a dynamic loading animation that brings energy and visual interest to any webpage.
+
+### Key Features:
+- **Pure CSS Animation**: The loader is fully animated using CSS `@keyframes`, with no JavaScript required.
+- **Kinetic Visual**: The rotating triangles give a unique kinetic feel, making it perfect for a loading screen animation.
+- **Lightweight and Responsive**: Works across devices without slowing down the page.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader) 👈
+
+![Kinetic CSS Loader](https://github.com/user-attachments/assets/99fd2313-3b6f-4cb1-b44e-8260ec51b9b4)
 
 ----
 
