@@ -29,7 +29,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 21|[Drag N Drop](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop) |
 |Day 22|[Drawing App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) |
 |Day 23|[Kinetic CSS Loader] (https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|
-|Day 24| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 24|[Content Placeholder](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder) |
 |Day 25| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 26| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 27| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -427,6 +427,21 @@ On Day 23, I created a **Kinetic CSS Loader**, a dynamic loading animation that 
 ![Kinetic CSS Loader](https://github.com/user-attachments/assets/99fd2313-3b6f-4cb1-b44e-8260ec51b9b4)
 
 ----
+
+## Day 24: Content Placeholder
+
+On Day 24, I created a **Content Placeholder**, a skeleton loading effect that keeps users engaged while content is being fetched from the server.
+
+### Key Features:
+- **Skeleton Loading**: Animated placeholders simulate the layout of content until the actual data is loaded.
+- **Seamless Transition**: After a brief delay, placeholders are replaced with real content, creating a smooth user experience.
+- **CSS-Driven Animation**: The loading effect is handled entirely using CSS animations.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder) 👈
+
+![Content Placeholder](https://github.com/user-attachments/assets/9d11a2d1-c012-478d-9129-209a6c6b6715)
+
+---
 
 
 ## 💡 Why This Challenge?
