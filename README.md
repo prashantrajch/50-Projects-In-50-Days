@@ -13,7 +13,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)|
 | Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
-|Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-5o-Days/tree/main/Day_8/Form_Wave_Animation)         |
+|Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation)         |
 |Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
 |Day 10|[Dad Jokes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |
 |Day 11|[Event KeyCodes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) |
@@ -28,9 +28,9 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 20|[Button Ribble Effect](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_20/Button_Ribble_Effect)|
 |Day 21|[Drag N Drop](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_21/Drag_N_Drop) |
 |Day 22|[Drawing App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_22/Drawing_App) |
-|Day 23|[Kinetic CSS Loader] (https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|
+|Day 23|[Kinetic CSS Loader](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|
 |Day 24|[Content Placeholder](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder) |
-|Day 25| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 25|[Sticky Navbar](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|
 |Day 26| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 27| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 28| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -443,6 +443,20 @@ On Day 24, I created a **Content Placeholder**, a skeleton loading effect that k
 
 ---
 
+## Day 25: Sticky Navbar
+
+On Day 25, I created a **Sticky Navbar** that stays fixed at the top of the page while scrolling, improving navigation and usability.
+
+### Key Features:
+- **Dynamic Sticky Effect**: The navbar sticks to the top on scroll, providing easy access to navigation at all times.
+- **Responsive Styling**: The navbar changes background color and text color smoothly when it becomes sticky, creating a polished and professional look.
+- **JavaScript Functionality**: The sticky effect is achieved with a simple JavaScript function, detecting scroll position and updating the navbar class.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar) 👈
+
+![Sticky Navbar](https://github.com/user-attachments/assets/f034a81d-49a9-40b3-9330-b77c3d1b356b)
+
+---
 
 ## 💡 Why This Challenge?
 
