@@ -13,7 +13,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 | Day 5| [Blurry Loading](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)| ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_5/Blurry_Loading)|
 | Day 6  | [Scroll Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |✅ Completed | N/A  | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_6/Scroll_Animation) |
 | Day 7  | [Split Landing Page](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |  ✅ Completed |N/A | [Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_7/Split_Landing_Page) |
-|Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation)         |
+|Day 8 |[Form Wave Animation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_8/Form_Wave_Animation) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_8/Form_Wave_Animation)         |
 |Day 9|[Sound Board](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_9/Sound_Board) |
 |Day 10|[Dad Jokes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_10/Dad_Jokes) |
 |Day 11|[Event KeyCodes](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes)|✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-IN-50-Days/tree/main/Day_11/Event_KeyCodes) |
@@ -31,7 +31,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 23|[Kinetic CSS Loader](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader) |✅ Completed| N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_23/Kinetic_CSS_Loader)|
 |Day 24|[Content Placeholder](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder) |
 |Day 25|[Sticky Navbar](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|
-|Day 26| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 26|[Vertical Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|
 |Day 27| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 28| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 29| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -455,6 +455,21 @@ On Day 25, I created a **Sticky Navbar** that stays fixed at the top of the page
 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar) 👈
 
 ![Sticky Navbar](https://github.com/user-attachments/assets/f034a81d-49a9-40b3-9330-b77c3d1b356b)
+
+---
+
+## Day 26: Vertical Slider
+
+Today, I created a **Vertical Image and Text Slider** with smooth transitions and full-screen visuals.
+
+### Key Features:
+- **Vertical Transition**: Users can scroll up and down between slides, with images on the right and text on the left.
+- **JavaScript-Powered Navigation**: Simple functions manage the slide transitions based on button clicks.
+- **Responsive and Intuitive**: The slider works well across screen sizes and provides an intuitive interface.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)
+
+![Vertical Slider](https://github.com/user-attachments/assets/b57a1d77-8626-4d21-96d7-36a8d7ada82a)
 
 ---
 
