@@ -32,7 +32,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 24|[Content Placeholder](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_24/Content_Placeholder) |
 |Day 25|[Sticky Navbar](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|
 |Day 26|[Vertical Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|
-|Day 27| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 27| [Toast Notification](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) |
 |Day 28| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 29| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 30| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -470,6 +470,21 @@ Today, I created a **Vertical Image and Text Slider** with smooth transitions an
 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)
 
 ![Vertical Slider](https://github.com/user-attachments/assets/b57a1d77-8626-4d21-96d7-36a8d7ada82a)
+
+---
+
+## Day 27: Toast Notification
+
+Today, I created a **Toast Notification** system to deliver quick, styled messages with ease.
+
+### Key Features:
+- **Randomized Styles**: Each notification has one of four types (info, success, warning, error) for clear communication.
+- **Auto-Dismiss with Progress Bars**: Notifications have a countdown bar and close after 5 seconds by default.
+- **Pause on Hover and Manual Dismissal**: Hovering pauses the countdown, and a close button lets users dismiss the toast manually.
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification)
+
+![Toast Notification](https://github.com/user-attachments/assets/5158a71e-ca9c-430a-9449-a500a81f3ccc)
 
 ---
 
