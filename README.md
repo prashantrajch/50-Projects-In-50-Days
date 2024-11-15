@@ -33,7 +33,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 25|[Sticky Navbar](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_25/Sticky_Navbar)|
 |Day 26|[Vertical Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|
 |Day 27| [Toast Notification](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) |
-|Day 28| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 28|[Github Profile](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |
 |Day 29| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 30| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 31| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -487,6 +487,30 @@ Today, I created a **Toast Notification** system to deliver quick, styled messag
 ![Toast Notification](https://github.com/user-attachments/assets/5158a71e-ca9c-430a-9449-a500a81f3ccc)
 
 ---
+
+## Day 28: GitHub Profile Finder
+
+Today's project is a **GitHub Profile Finder**, an interactive app to search for GitHub user profiles and explore their public repositories.
+
+### Key Features:
+- **Real-Time Search**: Fetches data directly from the GitHub API.
+- **Detailed Profile Display**: Shows user information like name, bio, followers, following, and public repositories.
+- **Repository Preview**: Displays the user’s 10 most recently created repositories with links to GitHub.
+- **Error Handling**: Handles cases where a user isn’t found or repository data fails to load.
+
+### Tech Stack:
+- **HTML, CSS, JavaScript**
+- **GitHub API**
+- **Axios** for API requests
+
+[View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile)
+
+![Github Profile](https://github.com/user-attachments/assets/91cfdf04-f205-44a2-865c-f7ee83aad78a)
+
+----
+
+
+
 
 ## 💡 Why This Challenge?
 
