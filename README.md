@@ -34,7 +34,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 26|[Vertical Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|✅ Completed |N/A|[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_26/Vertical_Slider)|
 |Day 27| [Toast Notification](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) |
 |Day 28|[Github Profile](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |
-|Day 29| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 29|[Double Heart Click](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) |
 |Day 30| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 31| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 32| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -509,6 +509,28 @@ Today's project is a **GitHub Profile Finder**, an interactive app to search for
 
 ----
 
+## Day 29: Double Heart Click Animation  
+
+This project adds a playful **Double Heart Click Animation** feature, perfect for interactive web pages.  
+
+### Key Features:
+- **Heart Animation**: A red heart grows and fades out on a double-click.
+- **Like Counter**: Tracks and displays the total number of "likes."
+- **Dynamic Placement**: Hearts appear precisely where the double-click occurs.  
+
+### Tech Stack:
+- **HTML, CSS, JavaScript**  
+
+### Concepts Practiced:
+- Event handling and distinguishing single vs. double clicks.
+- Dynamic DOM element creation and removal.
+- CSS keyframe animations.  
+
+👉 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click)  
+
+![Double Heart Click](https://github.com/user-attachments/assets/224d0da7-e1ba-417f-ad1f-e40b45768736)
+
+----
 
 
 
