@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 0;
+    font-family: 'Roboto',sans-serif;
+    background-color: darksalmon;
+}
+
+.text-container h1{
+    display: inline-block;
+}
+
+.blink-line{
+    display: inline-block;
+    width: 3px;
+    height: 30px;
+    background-color: red;
+    margin-left: -2px;
+    opacity: 0;
+    animation-name: blink;
+    animation-timing-function: linear;
+    animation-duration: 0.3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blink {
+    to{
+        opacity: 1;
+    }
+}
+
+.action-div{
+    position: absolute;
+    bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    font-size: 18px;
+}
+input{
+    width: 50px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+input:focus{
+    outline: none;
+}

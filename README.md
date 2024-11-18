@@ -35,7 +35,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 27| [Toast Notification](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_27/Toast_Notification) |
 |Day 28|[Github Profile](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |
 |Day 29|[Double Heart Click](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) |
-|Day 30| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 30|[Auto Text Effect](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) |
 |Day 31| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 32| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 33| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -531,6 +531,27 @@ This project adds a playful **Double Heart Click Animation** feature, perfect fo
 ![Double Heart Click](https://github.com/user-attachments/assets/224d0da7-e1ba-417f-ad1f-e40b45768736)
 
 ----
+
+## Day 30: Auto Text Effect  
+
+This project is a clean and stylish **Auto Text Effect** animation for creating dynamic intro or typing effects on a webpage.  
+
+### Key Features:
+- **Dynamic Typing**: Displays text character by character, simulating a typing effect.
+- **Adjustable Speed**: Allows users to control the speed of the typing animation with a slider.  
+- **Blinking Cursor**: Completes the typing effect with a blinking red cursor.  
+
+### Tech Stack:
+- **HTML, CSS, JavaScript**  
+
+### Concepts Practiced:
+- DOM manipulation with JavaScript.
+- CSS animations using `@keyframes`.
+- Event handling for real-time updates.  
+
+👉 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect)  
+
+![Auto Text Effect](https://github.com/user-attachments/assets/71f93fa4-efdf-42c4-bec8-2a8ceb6254f8)
 
 
 
