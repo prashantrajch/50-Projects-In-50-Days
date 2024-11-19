@@ -36,7 +36,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 28|[Github Profile](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_28/Github_Profile) |
 |Day 29|[Double Heart Click](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) |
 |Day 30|[Auto Text Effect](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) |
-|Day 31| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 31|[Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |
 |Day 32| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 33| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 34| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -553,6 +553,32 @@ This project is a clean and stylish **Auto Text Effect** animation for creating 
 
 ![Auto Text Effect](https://github.com/user-attachments/assets/71f93fa4-efdf-42c4-bec8-2a8ceb6254f8)
 
+----
+
+### Day 31 - Password Generator
+
+**Description:**  
+A customizable password generator with the following features:  
+- Adjust password length (4-20 characters).  
+- Toggle inclusion of:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols  
+- Copy the generated password directly to the clipboard with a single click.  
+
+**Key Concepts:**  
+- JavaScript logic for random character generation.  
+- Input validation to ensure proper password length.  
+- Event handling for button clicks and clipboard functionality.  
+
+**GitHub Repo:**  
+
+[Day 31 - Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator)  
+
+![Password Generator](https://github.com/user-attachments/assets/eb7d51cc-f248-450c-9fa7-f64b5b107d00)
+
+-----
 
 
 ## 💡 Why This Challenge?

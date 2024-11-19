@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  font-family: "Poppins", sans-serif;
+  background-color: #e6e7ee;
+}
+
+h2 {
+  margin: 10px 0 20px;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+  width: minmax(350px, 100%);
+  box-shadow: rgb(184, 185, 190) 6px 6px 12px 0px,
+    rgb(255, 255, 255) -6px -6px 12px 0px;
+  border-radius: 10px;
+}
+
+.result-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 1px;
+  /* padding: 12px 10px; */
+  width: 100%;
+  box-shadow: rgb(184, 185, 190) 2px 2px 5px 0px inset,
+    rgb(255, 255, 255) -3px -3px 7px 0px;
+  gap: 8px;
+}
+
+.result-container .result {
+  width: calc(100% - 40px);
+  word-wrap: break-word;
+  border: none;
+  font-size: inherit;
+  background-color: transparent;
+  padding-left: 10px;
+  color: blue;
+}
+
+.result-container input:focus {
+  outline: none;
+}
+
+.result-container i {
+  background-color: #e6e7ee;
+  padding: 8px 12px;
+  cursor: pointer;
+  box-shadow: rgb(184, 185, 190) 6px 6px 12px 0px,
+    rgb(255, 255, 255) -6px -6px 12px 0px;
+}
+.result-container i:active {
+  box-shadow: rgb(184, 185, 190) 2px 2px 5px 0px inset,
+    rgb(255, 255, 255) -3px -3px 7px 0px;
+}
+
+.settings {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 15px 0;
+}
+
+.options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.options input[type="number"] {
+  width: 40px;
+  padding-left: 4px;
+}
+
+input:not([type="number"], [type="text"]) {
+  cursor: pointer;
+}
+
+.btn-large {
+  background-color: #e6e7ee;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 14px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: rgb(184, 185, 190) 6px 6px 12px 0px,
+    rgb(255, 255, 255) -6px -6px 12px 0px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.btn-large:active {
+  box-shadow: rgb(184, 185, 190) 2px 2px 5px 0px inset,
+    rgb(255, 255, 255) -3px -3px 7px 0px;
+}
