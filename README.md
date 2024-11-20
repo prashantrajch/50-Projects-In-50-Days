@@ -37,7 +37,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 29|[Double Heart Click](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_29/Double_Heart_Click) |
 |Day 30|[Auto Text Effect](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) |
 |Day 31|[Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |
-|Day 32| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 32|[Good Cheap Fast](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) |
 |Day 33| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 34| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 35| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -574,11 +574,34 @@ A customizable password generator with the following features:
 
 **GitHub Repo:**  
 
-[Day 31 - Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator)  
+👉 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator)  
 
 ![Password Generator](https://github.com/user-attachments/assets/eb7d51cc-f248-450c-9fa7-f64b5b107d00)
 
 -----
+
+### Day 32 - Good Cheap Fast
+
+**Description:**  
+An interactive toggle UI to demonstrate the "Good, Cheap, Fast" triangle concept where:  
+- You can only pick two options at a time.
+- Selecting a third option automatically deselects one of the previous choices.
+
+**Key Features:**  
+- Custom toggle switches with smooth animations.
+- JavaScript logic to enforce the rule: *"Pick only two out of three."*
+
+**Key Concepts:**  
+- CSS animations for smooth toggle effects.
+- JavaScript event handling with conditional logic to dynamically control toggles.  
+
+**GitHub Repo:**  
+
+👉 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast)  
+
+![Goal Cheap Fast](https://github.com/user-attachments/assets/608dce93-e21c-433a-aeb0-13b1269d6a8b)
+
+----
 
 
 ## 💡 Why This Challenge?
