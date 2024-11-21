@@ -38,7 +38,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 30|[Auto Text Effect](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_30/Auto_Text_Effect) |
 |Day 31|[Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |
 |Day 32|[Good Cheap Fast](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) |
-|Day 33| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 33|[Notes App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |
 |Day 34| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 35| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 36| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -600,6 +600,36 @@ An interactive toggle UI to demonstrate the "Good, Cheap, Fast" triangle concept
 👉 [View the project here](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast)  
 
 ![Goal Cheap Fast](https://github.com/user-attachments/assets/608dce93-e21c-433a-aeb0-13b1269d6a8b)
+
+----
+
+## Day 33 - Notes App  
+
+A dynamic **Notes App** that allows you to create, edit, and manage notes directly in your browser with persistent storage.  
+
+### Features  
+- **Add Notes:** Create new notes with a single button click.  
+- **Edit Mode:** Toggle between a markdown editor and a preview view.  
+- **Persistent Storage:** Notes are saved in `localStorage`, ensuring they remain after refreshing the page.  
+- **Delete Notes:** Remove unwanted notes with ease.  
+
+### What I Learned  
+- Managing DOM manipulation for dynamic content.  
+- Using the `marked` library to parse markdown.  
+- Leveraging `localStorage` for data persistence.   
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- [Marked.js](https://marked.js.org/)  
+ 
+
+### GitHub Repository  
+
+[Day 33 - Notes App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App)  
+
+![Notes App](https://github.com/user-attachments/assets/27a59b5a-da53-4b44-8d15-6de141ad067b)
 
 ----
 
