@@ -39,7 +39,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 31|[Password Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_31/Password_Generator) |
 |Day 32|[Good Cheap Fast](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) |
 |Day 33|[Notes App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |
-|Day 34| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 34|[Animated Countdown](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) |
 |Day 35| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 36| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 37| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -633,6 +633,41 @@ A dynamic **Notes App** that allows you to create, edit, and manage notes direct
 
 ----
 
+## Day 34 - Animated Countdown  
+
+An interactive **Animated Countdown Timer** with smooth animations and a replayable sequence.  
+
+### Features  
+- **Dynamic Countdown:** A visually appealing countdown from `3` to `0`.  
+- **Final Screen:** Displays a "Go" message once the countdown completes.  
+- **Replay Button:** Allows users to reset and replay the countdown animation.  
+
+### What I Learned  
+- Leveraging CSS keyframes and animations for fluid transitions.  
+- Using JavaScript to handle `animationend` events for step-by-step animations.  
+- Resetting the DOM to make animations replayable.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Animation Sequence:**  
+   - Each number in the countdown animates in and out using CSS keyframes (`goIn` and `goOut`).  
+   - The animations trigger sequentially using the `animationend` event in JavaScript.  
+
+2. **Replay Functionality:**  
+   - The DOM resets when the replay button is clicked, allowing the countdown to start over.  
+ 
+### GitHub Repository  
+
+[Day 34 - Animated Countdown](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown)  
+
+![Animated Countdown](https://github.com/user-attachments/assets/73d00e93-746e-49f4-8124-eb5c54fafe36)
+
+-----
+
 
 ## 💡 Why This Challenge?
 
@@ -662,4 +697,4 @@ Stay tuned for more exciting projects!
 
 
 
-**Note:** This repository is inspired by the [50 Projects in 50 Days - HTML/CSS and JavaScript by Brad Traversy & Florin Pop](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript/tree/main)
+**Note:** This repository is inspired by the [50 Projects in 50 Days - HTML/CSS and JavaScript by Brad Traversy & Florin Pop](https://github.com/bradtraversy/50projects50days)
