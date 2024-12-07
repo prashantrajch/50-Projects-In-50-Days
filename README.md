@@ -40,7 +40,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 32|[Good Cheap Fast](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_32/Good_Cheap_Fast) |
 |Day 33|[Notes App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |
 |Day 34|[Animated Countdown](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) |
-|Day 35| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 35|[Image Carousel](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |
 |Day 36| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 37| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 38| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -667,6 +667,48 @@ An interactive **Animated Countdown Timer** with smooth animations and a replaya
 ![Animated Countdown](https://github.com/user-attachments/assets/73d00e93-746e-49f4-8124-eb5c54fafe36)
 
 -----
+
+## Day 35 - Image Carousel  
+
+A fully functional **Image Carousel** with smooth animations and responsive navigation.  
+
+### Features  
+- **Auto-Sliding Images:** Images automatically transition every 2 seconds.  
+- **User Navigation:** Includes "Next" and "Previous" buttons for manual control.  
+- **Infinite Loop:** The carousel restarts seamlessly at the beginning or end.  
+- **Timer Reset:** User interactions reset the auto-slide timer for uninterrupted navigation.  
+
+### What I Learned  
+- How to use `transform` and `translateX` for dynamic animations.  
+- Handling `setInterval` and `clearInterval` for auto-slide functionality.  
+- Creating a continuous loop effect with conditional logic.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Sliding Effect:**  
+   - Images are displayed in a row using `display: flex`.  
+   - The `translateX` property moves the visible frame dynamically.  
+
+2. **Auto-Slide:**  
+   - The `setInterval` function slides images every 2 seconds.  
+   - Interaction with navigation buttons resets the timer.  
+
+3. **Loop Mechanism:**  
+   - If the index (`idx`) exceeds the image count, it resets to `0`.  
+   - If `idx` goes below `0`, it jumps to the last image.  
+
+### GitHub Repository  
+
+[Day 35 - Image Carousel](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel)  
+
+![Image Carousel](https://github.com/user-attachments/assets/7ea96bcc-a744-4257-aa8f-4edae573296a)
+
+
+----
 
 
 ## 💡 Why This Challenge?
