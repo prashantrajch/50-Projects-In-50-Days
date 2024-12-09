@@ -41,7 +41,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 33|[Notes App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_33/Notes_App) |
 |Day 34|[Animated Countdown](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) |
 |Day 35|[Image Carousel](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |
-|Day 36| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 36|[Hoverboard](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |
 |Day 37| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 38| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 39| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -707,8 +707,52 @@ A fully functional **Image Carousel** with smooth animations and responsive navi
 
 ![Image Carousel](https://github.com/user-attachments/assets/7ea96bcc-a744-4257-aa8f-4edae573296a)
 
+----
+
+## Day 36 - Hoverboard  
+
+An interactive grid where each square lights up with vibrant colors when hovered over, creating a stunning visual effect.  
+
+### Features  
+- **Dynamic Hover Effects:** Squares change colors with a glowing effect when hovered.  
+- **Randomized Colors:** Each hover generates a new color combination.  
+- **Smooth Transitions:** Adds an aesthetic fade-out effect on mouse-out.  
+- **Minimalist Design:** Clean layout with responsive styling.  
+
+### What I Learned  
+- Dynamically creating and appending elements to the DOM.  
+- Using `addEventListener` for interactive hover and mouse-out effects.  
+- Implementing color randomization with `Math.random()`.  
+- Applying `transition` to achieve smooth visual effects.  
+  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Grid Creation:**  
+   - The grid of squares is dynamically generated with JavaScript.  
+
+2. **Hover Effect:**  
+   - When the user hovers over a square, its background color changes to a random color, and it glows.  
+
+3. **Random Colors:**  
+   - Colors are selected from a predefined array using `Math.random()`.  
+
+4. **Mouse-Out Effect:**  
+   - The square reverts to its original state with a smooth fade.  
+ 
+
+### GitHub Repository  
+
+[Day 36 - Hoverboard](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard)  
+
+![Hoverboard](https://github.com/user-attachments/assets/28ed47f5-b34d-469a-a33e-3828cfdd10fb)
 
 ----
+
 
 
 ## 💡 Why This Challenge?
