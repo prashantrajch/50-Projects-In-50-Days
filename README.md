@@ -42,7 +42,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 34|[Animated Countdown](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_34/Animated_Countdown) |
 |Day 35|[Image Carousel](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |
 |Day 36|[Hoverboard](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |
-|Day 37| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 37|[Pokedex](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex) |
 |Day 38| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 39| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 40| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -752,6 +752,51 @@ An interactive grid where each square lights up with vibrant colors when hovered
 ![Hoverboard](https://github.com/user-attachments/assets/28ed47f5-b34d-469a-a33e-3828cfdd10fb)
 
 ----
+
+
+## Day 37 - Pokedex  
+
+A simple and dynamic Pokémon encyclopedia that loads Pokémon data via the PokéAPI. Includes infinite scroll functionality to fetch data in batches for a smooth user experience.  
+
+### Features  
+- **Infinite Scroll:** Loads Pokémon data dynamically as the user scrolls down.  
+- **Type-based Colors:** Pokémon cards styled with colors corresponding to their type.  
+- **Dynamic Data:** Pokémon names, IDs, images, and types fetched using the PokéAPI.  
+- **Responsive Design:** Optimized for various screen sizes.  
+
+### What I Learned  
+- Consuming and managing data from an external API.  
+- Implementing infinite scroll for dynamic data fetching.  
+- Styling elements dynamically based on API data.  
+- Optimizing DOM updates for performance during batch loads.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- [PokéAPI](https://pokeapi.co/)  
+
+### How It Works  
+1. **API Integration:**  
+   - Fetches Pokémon data from the PokéAPI, including their name, image, ID, and type.  
+
+2. **Infinite Scroll:**  
+   - Uses the scroll event to dynamically fetch the next batch of Pokémon when the user scrolls near the bottom of the page.  
+
+3. **Dynamic Styling:**  
+   - Cards are styled based on the Pokémon's type, with colors corresponding to the main type.  
+
+4. **Performance Optimization:**  
+   - Limits API requests to batches of 20 Pokémon at a time.  
+
+### GitHub Repository  
+
+[Day 37 - Pokedex](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex)  
+
+![Pokedex](https://github.com/user-attachments/assets/b5175f40-240a-463b-91c9-8997ac364224)
+
+-----
+
 
 
 
