@@ -43,7 +43,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 35|[Image Carousel](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_35/Image_Carousel) |
 |Day 36|[Hoverboard](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |
 |Day 37|[Pokedex](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex) |
-|Day 38| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 38| [Mobile Tab Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) |
 |Day 39| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 40| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 41| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -797,7 +797,47 @@ A simple and dynamic Pokémon encyclopedia that loads Pokémon data via the Pok�
 
 -----
 
+## Day 38 - Mobile Tab Navigation  
 
+An interactive and mobile-friendly tab navigation system that enhances user experience through animations and dynamic content display.  
+
+### Features  
+- **Smooth Animations:** Tabs switch seamlessly with rotation effects.  
+- **Dynamic Content Display:** Each tab shows specific content, creating a clean UI.  
+- **Mobile-First Design:** Optimized for smaller screens.  
+- **Active State Indicators:** Highlights the selected tab for better navigation.  
+
+### What I Learned  
+- How to implement animated transitions for a better user experience.  
+- Efficiently managing DOM updates for navigation systems.  
+- Using CSS to style active and hover states dynamically.  
+- Integrating Font Awesome for professional-grade icons.  
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- [Font Awesome](https://fontawesome.com/)  
+
+### How It Works  
+1. **Dynamic Tab Switching:**  
+   - JavaScript controls which content is displayed based on the selected tab.  
+
+2. **Active State Management:**  
+   - CSS and JavaScript ensure that the current tab is visually distinct.  
+
+3. **Mobile-Friendly Layout:**  
+   - A clean and responsive design ensures optimal performance on small screens.  
+
+
+### GitHub Repository  
+
+[Day 38 - Mobile Tab Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation)  
+
+![Mobile Tab Navigation](https://github.com/user-attachments/assets/e4171932-284f-426e-a586-303d7d97e902)
+
+
+-----
 
 
 ## 💡 Why This Challenge?
