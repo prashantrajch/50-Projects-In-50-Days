@@ -44,7 +44,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 36|[Hoverboard](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_36/Hoverboard) |
 |Day 37|[Pokedex](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex) |
 |Day 38| [Mobile Tab Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) |
-|Day 39| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 39|[Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) |
 |Day 40| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 41| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 42| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -838,6 +838,50 @@ An interactive and mobile-friendly tab navigation system that enhances user expe
 
 
 -----
+
+## Day 39 - Password Strength Background  
+
+A minimalistic project that visually represents password strength using a dynamic blur effect on the background.  
+
+### Features  
+- **Dynamic Blur Effect:**  
+  The background blur decreases as the password length increases, providing instant visual feedback.  
+- **Clean Form Design:**  
+  The form is styled with Tailwind CSS for a professional and responsive look.  
+- **User-Friendly Interaction:**  
+  Smooth transitions make for an engaging experience.  
+
+### What I Learned  
+- How to manipulate CSS properties like `filter: blur()` dynamically via JavaScript.  
+- Using Tailwind CSS for quick and efficient styling.  
+- Creating a minimalistic, user-focused UI design.  
+- Exploring how interactive elements can enhance UX.  
+
+
+### Technologies Used  
+- HTML  
+- CSS (Tailwind CSS)  
+- JavaScript  
+
+### How It Works  
+1. **Password Input Listener:**  
+   - JavaScript listens for changes in the password field.  
+
+2. **Dynamic Blur Adjustment:**  
+   - The `blur()` value decreases as the password length increases, making the background sharper.  
+
+3. **Responsive Design:**  
+   - Tailwind CSS ensures the form adapts to different screen sizes seamlessly.  
+
+
+### GitHub Repository  
+[Day 39 - Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background)  
+
+![Password Strength Background](https://github.com/user-attachments/assets/c1118fa3-9722-4452-be7e-04e4170fbc68)
+
+----
+
+
 
 
 ## 💡 Why This Challenge?
