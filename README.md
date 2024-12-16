@@ -46,7 +46,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 38| [Mobile Tab Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) |
 |Day 39|[Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) |
 |Day 40|[3D Backgound Boxes](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) |
-|Day 41| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 41|[Verify Account UI](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) |
 |Day 42| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 43| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 44| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -925,6 +925,50 @@ This project showcases an interactive grid of 3D boxes that transform dynamicall
 
 -----
 
+## Day 41 - Verify Account UI  
+
+A sleek and functional UI design for verifying user accounts using a six-digit code. This project demonstrates a smooth user experience with dynamic input handling.  
+
+### Features  
+- **Dynamic Input Focus:**  
+  Automatically shifts focus to the next input when a digit is entered.  
+- **Backspace Handling:**  
+  Moves focus back for corrections when the backspace key is pressed.  
+- **Real-Time Validation:**  
+  Highlights inputs as valid when a digit is entered.  
+- **Responsive Design:**  
+  Fully optimized for desktop and mobile devices.  
+
+### What I Learned  
+- Using JavaScript to dynamically control input focus.  
+- Styling with conditional validation in CSS.  
+- Responsive design techniques for a flexible layout.  
+- Best practices for clean, user-friendly UIs.  
+
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Input Validation and Focus:**  
+   - JavaScript listens for `keydown` events and shifts focus automatically on valid numeric input.  
+
+2. **Backspace Navigation:**  
+   - Handles backspace key to move focus back and clear the current input.  
+
+3. **Visual Feedback:**  
+   - Valid inputs are highlighted with CSS styles.  
+
+
+### GitHub Repository  
+
+[Day 41 - Verify Account UI](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui)  
+
+![Verify Account UI](https://github.com/user-attachments/assets/3717c105-65e3-4267-afb7-962485af61e5)
+
+----
 
 
 ## 💡 Why This Challenge?
