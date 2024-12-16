@@ -45,7 +45,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 37|[Pokedex](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex)| ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_37/Pokedex) |
 |Day 38| [Mobile Tab Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_38/Mobile_Tab_Navigation) |
 |Day 39|[Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) |
-|Day 40| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 40|[3D Backgound Boxes](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) |
 |Day 41| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 42| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 43| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -875,12 +875,55 @@ A minimalistic project that visually represents password strength using a dynami
 
 
 ### GitHub Repository  
+
 [Day 39 - Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background)  
 
 ![Password Strength Background](https://github.com/user-attachments/assets/c1118fa3-9722-4452-be7e-04e4170fbc68)
 
 ----
 
+## Day 40 - 3D Background Boxes  
+
+This project showcases an interactive grid of 3D boxes that transform dynamically upon user interaction.  
+
+### Features  
+- **Dynamic Grid Creation:**  
+  JavaScript dynamically generates a grid of boxes.  
+- **3D Transition Effect:**  
+  Smooth rotation and resizing animations on toggle.  
+- **Custom Background:**  
+  A shared image background seamlessly mapped across all boxes.  
+- **Interactive Button:**  
+  A single button toggles the grid between states.  
+
+### What I Learned  
+- Dynamically creating elements and adding styles with JavaScript.  
+- Using nested loops for structured layouts.  
+- Applying CSS transitions and transformations for 3D effects.  
+- Designing responsive and visually appealing UI.   
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Dynamic Box Creation:**  
+   - JavaScript loops through rows and columns to create individual boxes with specific background positions.  
+
+2. **Interactive Animation:**  
+   - A button toggles a `big` class, triggering the grid to expand and rotate.  
+
+3. **Visual Styling:**  
+   - Background image mapped across all boxes for a cohesive look.  
+ 
+
+### GitHub Repository  
+
+[Day 40 - 3D Background Boxes](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes)  
+
+
+-----
 
 
 
