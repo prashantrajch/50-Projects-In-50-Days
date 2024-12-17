@@ -47,7 +47,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 39|[Password Strength Background](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_39/Password_Strength_Background) |
 |Day 40|[3D Backgound Boxes](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) |
 |Day 41|[Verify Account UI](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) |
-|Day 42| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 42| [Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |
 |Day 43| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 44| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 45| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -969,6 +969,51 @@ A sleek and functional UI design for verifying user accounts using a six-digit c
 ![Verify Account UI](https://github.com/user-attachments/assets/3717c105-65e3-4267-afb7-962485af61e5)
 
 ----
+
+## Day 42 - Live User Filter  
+
+A simple yet effective **Live User Filter** that allows you to search for users by name and location. The user list updates dynamically as you type, utilizing the [RandomUser.me API](https://randomuser.me/) for fetching data.
+
+### Features  
+- **Live Search:**  
+  Real-time filtering as the user types in the search input.  
+- **API Integration:**  
+  Fetches random user data from the [RandomUser.me API](https://randomuser.me/).  
+- **Responsive Design:**  
+  Fully responsive layout that adapts to various screen sizes.  
+
+### What I Learned  
+- Fetching data from external APIs and displaying it dynamically.  
+- Implementing live search functionality with JavaScript.  
+- Enhancing UI/UX with responsive and interactive elements.  
+- Optimizing performance with event listeners and filtering techniques.
+
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Fetching Data:**  
+   - The `fetchRamdomUser` function retrieves 50 random user profiles from the RandomUser API.  
+
+2. **Real-Time Filtering:**  
+   - As the user types in the search field, the `filterDate` function filters the displayed results.  
+
+3. **Responsive Layout:**  
+   - The user interface adapts to screen size, ensuring usability across devices.  
+
+
+
+### GitHub Repository  
+
+[Day 42 - Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter)  
+
+![Live User Filter](https://github.com/user-attachments/assets/ad35821e-9cd9-4c92-b05d-d7c2c57a2f52)
+
+----
+
 
 
 ## 💡 Why This Challenge?
