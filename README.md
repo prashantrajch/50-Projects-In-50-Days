@@ -48,7 +48,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 40|[3D Backgound Boxes](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_40/3D_Background_Boxes) |
 |Day 41|[Verify Account UI](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) |
 |Day 42| [Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |
-|Day 43| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 43|[Feedback UI Design](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |
 |Day 44| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 45| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 46| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -1011,6 +1011,51 @@ A simple yet effective **Live User Filter** that allows you to search for users 
 [Day 42 - Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter)  
 
 ![Live User Filter](https://github.com/user-attachments/assets/ad35821e-9cd9-4c92-b05d-d7c2c57a2f52)
+
+----
+
+## Day 43 - Feedback UI Design  
+
+An interactive **Feedback UI Design** where users can select their satisfaction level and submit their feedback. The interface is clean, responsive, and easy to use.
+
+### Features  
+- **Interactive Feedback Selection:**  
+  - Users can select from multiple feedback options.  
+  - Active states with hover and click effects for better engagement.  
+- **Dynamic Content Update:**  
+  - Displays a personalized thank-you message upon submission.  
+- **Responsive Design:**  
+  - Fully responsive for a seamless experience across devices.  
+
+### What I Learned  
+- Managing UI states and user interactions with JavaScript.  
+- Updating DOM dynamically based on user actions.  
+- Enhancing visual feedback through CSS effects.  
+- Designing responsive layouts with minimal CSS.  
+
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Feedback Selection:**  
+   - Users select their satisfaction level by clicking on an emoji or label.  
+   - The selected option gets highlighted dynamically.  
+
+2. **Submit Feedback:**  
+   - Clicking the "Send Review" button displays a custom thank-you message along with the selected feedback.  
+
+3. **Dynamic UI:**  
+   - Active states are handled via JavaScript class manipulation, ensuring a smooth and intuitive experience.  
+ 
+
+### GitHub Repository 
+
+[Day 43 - Feedback UI Design](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design)  
+
+![Feedback UI Design](https://github.com/user-attachments/assets/76814b38-b25f-4b90-86ac-424ed617c895)
 
 ----
 
