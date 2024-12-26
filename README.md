@@ -49,7 +49,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 41|[Verify Account UI](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_41/Verify_Account_Ui) |
 |Day 42| [Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |
 |Day 43|[Feedback UI Design](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |
-|Day 44| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 44|[Custom Range Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) |
 |Day 45| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 46| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 47| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -1058,6 +1058,48 @@ An interactive **Feedback UI Design** where users can select their satisfaction 
 ![Feedback UI Design](https://github.com/user-attachments/assets/76814b38-b25f-4b90-86ac-424ed617c895)
 
 ----
+
+## Day 44 - Custom Range Slider  
+
+A sleek **Custom Range Slider** with dynamic label positioning and aesthetic styling for a polished user experience.
+
+### Features  
+- **Dynamic Label Updates:**  
+  - The label displays the current slider value and adjusts its position dynamically based on the slider's value.  
+- **Custom Styling:**  
+  - Styled slider track and thumb for a modern look.  
+- **Cross-Browser Compatibility:**  
+  - Ensures consistent appearance across major browsers (Chrome, Firefox, and IE).  
+
+### What I Learned  
+- Calculating dynamic positioning for UI elements using JavaScript.  
+- Styling range sliders with browser-specific pseudo-elements.  
+- Using CSS to create visually appealing and responsive components.  
+ 
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Slider Interaction:**  
+   - As the user moves the slider, the label dynamically updates to reflect the current value.  
+
+2. **Dynamic Positioning:**  
+   - The label’s position adjusts in real time to remain centered above the slider thumb, ensuring a seamless experience.  
+
+3. **Responsive Design:**  
+   - Designed to work flawlessly across different devices and browsers.  
+
+
+### GitHub Repository  
+
+[Day 44 - Custom Range Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider)  
+
+![Custom Range Slider](https://github.com/user-attachments/assets/68e8e878-932c-4581-938a-09bf3e42de24)
+
+------
 
 
 
