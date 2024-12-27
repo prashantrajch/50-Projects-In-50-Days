@@ -50,7 +50,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 42| [Live User Filter](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_42/Live_User_Filter) |
 |Day 43|[Feedback UI Design](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |
 |Day 44|[Custom Range Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) |
-|Day 45| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 45| [Netflix Mobile Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) |
 |Day 46| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 47| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 48| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -1100,6 +1100,49 @@ A sleek **Custom Range Slider** with dynamic label positioning and aesthetic sty
 ![Custom Range Slider](https://github.com/user-attachments/assets/68e8e878-932c-4581-938a-09bf3e42de24)
 
 ------
+
+## Day 45 - Netflix Mobile Navigation  
+
+A **Netflix-inspired mobile navigation** menu that uses layered sliding effects for a sleek, professional look.
+
+### Features  
+- **Multi-Layered Navigation:**  
+  - Each layer slides in sequence, creating depth and visual interest.  
+- **Smooth Transitions:**  
+  - CSS-driven animations for a polished user experience.  
+- **Interactive Toggle Buttons:**  
+  - JavaScript-enabled open/close functionality for easy navigation.  
+
+### What I Learned  
+- Handling nested elements with CSS transitions.  
+- Writing concise JavaScript to manipulate multiple DOM elements.  
+- Designing mobile-first navigation menus with smooth animations.  
+ 
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Open Menu:**  
+   - The user clicks the menu button to activate the navigation layers.  
+   - Each layer slides in with a slight delay for a layered effect.  
+
+2. **Close Menu:**  
+   - The close button reverses the transitions to hide the navigation menu.  
+
+3. **Responsive Design:**  
+   - The layout is optimized for mobile devices, ensuring usability across screen sizes.  
+ 
+
+### GitHub Repository  
+
+[Day 45 - Netflix Mobile Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation)  
+
+![Netflix Mobile Navigation](https://github.com/user-attachments/assets/6685ce74-0b6e-4f45-8457-455dee449025)
+
+-------
 
 
 
