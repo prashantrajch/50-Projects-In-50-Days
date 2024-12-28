@@ -51,7 +51,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 43|[Feedback UI Design](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_43/Feedback_UI_Design) |
 |Day 44|[Custom Range Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) |
 |Day 45| [Netflix Mobile Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) |
-|Day 46| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 46|[Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |
 |Day 47| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 48| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 49| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -1144,6 +1144,47 @@ A **Netflix-inspired mobile navigation** menu that uses layered sliding effects 
 
 -------
 
+## Day 46 - Quiz App  
+
+A **dynamic Quiz App** that presents multiple-choice questions, tracks user scores, and provides feedback at the end.  
+
+### Features  
+- **Dynamic Question Loading:**  
+  - Questions are fetched from a data source, enabling flexibility and scalability.  
+- **Interactive UI:**  
+  - Users can select answers with radio buttons and submit them easily.  
+- **Scoring System:**  
+  - Displays the number of correct answers and allows a quick reload to retake the quiz.  
+
+### What I Learned  
+- DOM manipulation techniques for dynamic content updates.  
+- Leveraging `filter` and `map` methods in JavaScript for efficient array operations.  
+- Designing a responsive and intuitive quiz interface.  
+ 
+
+### Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+### How It Works  
+1. **Answering Questions:**  
+   - The user selects an answer for each question using radio buttons.  
+
+2. **Submit Answers:**  
+   - On clicking the submit button, the app validates the answer, updates the score, and moves to the next question.  
+
+3. **Quiz Completion:**  
+   - After all questions are answered, the app displays the final score and a reload button.  
+
+
+### GitHub Repository  
+
+[Day 46 - Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App)  
+
+![Quiz App](https://github.com/user-attachments/assets/b3b639d0-deec-4538-bd4e-125fb1b10960)
+
+-----
 
 
 ## 💡 Why This Challenge?
