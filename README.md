@@ -52,7 +52,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 44|[Custom Range Slider](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_44/Custom_Range_Slider) |
 |Day 45| [Netflix Mobile Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) |
 |Day 46|[Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |
-|Day 47| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 47| [Testiomonial Box Switcher](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) |
 |Day 48| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 49| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 50| Coming Soon| ⏳ In Progress | N/A | N/A |
@@ -1185,6 +1185,39 @@ A **dynamic Quiz App** that presents multiple-choice questions, tracks user scor
 ![Quiz App](https://github.com/user-attachments/assets/b3b639d0-deec-4538-bd4e-125fb1b10960)
 
 -----
+
+# Day 47 - Testimonial Box Switcher  
+
+## 🖼️ Project Overview  
+The **Testimonial Box Switcher** dynamically updates client testimonials at regular intervals, making it ideal for showcasing user reviews or stories in a modern and engaging way.  
+
+## 🌟 Features  
+- **Dynamic Testimonials:** Automatically updates testimonials every 10 seconds.  
+- **Responsive Design:** Looks great on all devices.  
+- **Progress Bar Animation:** Visual indicator for the duration of each testimonial.  
+
+## 🛠️ Technologies Used  
+- **HTML:** Markup structure for the testimonial box.  
+- **CSS:** Styling and animations for smooth transitions.  
+- **JavaScript:** Dynamically updates testimonials and handles the switching logic.  
+
+## 📚 What I Learned  
+- Leveraging `setInterval` for periodic DOM updates.  
+- Creating keyframe animations with CSS.  
+- Designing responsive UI elements for better user experience.  
+
+
+### GitHub Repository  
+
+[Day 46 - Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) 
+
+![Testimonial Box Switcher](https://github.com/user-attachments/assets/e329a3b6-05ea-4588-ac41-a6b32f56a650)
+
+----
+
+
+
+
 
 
 ## 💡 Why This Challenge?
