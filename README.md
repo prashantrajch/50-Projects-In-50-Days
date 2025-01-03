@@ -53,7 +53,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 45| [Netflix Mobile Navigation](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_45/Netflix_Mobile_Navigation) |
 |Day 46|[Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |
 |Day 47| [Testiomonial Box Switcher](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) |
-|Day 48| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 48| [Random Image Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) |
 |Day 49| Coming Soon| ⏳ In Progress | N/A | N/A |
 |Day 50| Coming Soon| ⏳ In Progress | N/A | N/A |
 
@@ -1215,6 +1215,52 @@ The **Testimonial Box Switcher** dynamically updates client testimonials at regu
 
 ----
 
+
+## Day 48 - Random Image Generator  
+
+A fun and dynamic project that generates a grid of random images using the Picsum.photos API, with user-friendly controls for customization.  
+
+### Features  
+- **Dynamic Image Grid:**  
+  Automatically generates a grid of random images based on user-defined rows.  
+- **Customizable Input:**  
+  Users can specify the number of rows to display through a simple input field.  
+- **Refresh Button:**  
+  Quickly refresh the grid to display a new set of images.  
+- **Optimized Performance:**  
+  Images load lazily for better performance and reduced bandwidth usage.  
+
+### What I Learned  
+- How to integrate an API like **Picsum.photos** for fetching dynamic content.  
+- Creating and appending DOM elements dynamically with JavaScript.  
+- Implementing lazy loading for images using the `loading="lazy"` attribute.  
+- Managing user inputs and events like form submissions efficiently with `event.preventDefault()`.  
+
+### Technologies Used  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### How It Works  
+1. **Random Image Fetching:**  
+   - Uses the Picsum.photos API to fetch random placeholder images.  
+
+2. **Dynamic Grid Creation:**  
+   - JavaScript generates a grid of images based on the number of rows specified by the user.  
+
+3. **Responsive Design:**  
+   - The layout adapts seamlessly to different screen sizes for a smooth user experience.  
+
+4. **Refresh Functionality:**  
+   - Clicking the refresh button clears the grid and reloads new images dynamically.  
+
+### GitHub Repository  
+
+[Day 48 - Random Image Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator)  
+
+![Random Image Generator](https://github.com/user-attachments/assets/0c0045d0-2cb3-4534-a50b-0b39dad55850)
+
+---
 
 
 

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Random Image Generator</title>
+  </head>
+  <body>
+    <h1 class="title">Random Image Feed</h1>
+    <form action="">
+      <label for="row"> Rows </label>
+      <input
+        type="number"
+        id="row"
+        class="input"
+        min="2"
+        max="10"
+        value="2"
+        placeholder="Enter row number"
+      />
+      <button class="btn" type="submit" id="submit-btn">Submit</button>
+    </form>
+    <button class="btn" id="refresh-btn">Refresh</button>
+    <div class="container"></div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
