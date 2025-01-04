@@ -54,7 +54,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 46|[Quiz App](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_46/Quiz_App) |
 |Day 47| [Testiomonial Box Switcher](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) |
 |Day 48| [Random Image Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) |
-|Day 49| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 49| [Todo List](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_49/Todo_List) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_49/Todo_List) |
 |Day 50| Coming Soon| ⏳ In Progress | N/A | N/A |
 
 ---
@@ -1262,6 +1262,50 @@ A fun and dynamic project that generates a grid of random images using the Picsu
 
 ---
 
+
+## Day 49 - Todo List  
+
+A clean and simple **Todo List** app that enables users to manage their tasks with ease. It offers a minimalistic interface and supports task persistence through localStorage.  
+
+### Features  
+- **Add Todos:**  
+  Quickly add new tasks via an intuitive input field.  
+- **Mark as Complete:**  
+  Left-click on a todo to toggle its completed state.  
+- **Delete Todos:**  
+  Right-click on a todo to remove it from the list.  
+- **LocalStorage Support:**  
+  Todos are saved and retrieved from the browser’s localStorage for persistence.  
+
+### What I Learned  
+- How to handle user interactions such as clicks and context menus in JavaScript.  
+- Using `localStorage` for saving and loading user data.  
+- Dynamically creating and manipulating DOM elements.  
+- Implementing a lightweight and user-friendly design.  
+
+### Technologies Used  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### How It Works  
+1. **Adding Todos:**  
+   - Type in the input field and hit "Enter" to add a new todo.  
+2. **Marking as Complete:**  
+   - Left-click on a todo to toggle its `completed` state, which applies a line-through style.  
+3. **Deleting Todos:**  
+   - Right-click on a todo to delete it instantly.  
+4. **Persisting Data:**  
+   - All tasks are stored in `localStorage` and reloaded upon revisiting the page.  
+
+### GitHub Repository  
+
+[Day 49 - Todo List](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_49/Todo_List)  
+
+![Todo List](https://github.com/user-attachments/assets/63a7c5fe-7484-4877-8463-0f1203161260)
+
+
+----
 
 
 
