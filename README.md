@@ -55,7 +55,7 @@ Welcome to my **50 Projects in 50 Days** challenge! 🎉 This is a journey to im
 |Day 47| [Testiomonial Box Switcher](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_47/Testimonial_Box_Switcher) |
 |Day 48| [Random Image Generator](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_48/Random_Image_Generator) |
 |Day 49| [Todo List](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_49/Todo_List) | ✅ Completed | N/A |[Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_49/Todo_List) |
-|Day 50| Coming Soon| ⏳ In Progress | N/A | N/A |
+|Day 50| [Insect Catch Game](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_50/Insect_Catch_Game) | ✅ Completed | N/A | [Code](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_50/Insect_Catch_Game) |
 
 ---
 
@@ -1307,7 +1307,48 @@ A clean and simple **Todo List** app that enables users to manage their tasks wi
 
 ----
 
+## Day 50 - Insect Catch Game  
 
+A fun and interactive mini-game where players catch insects on their screen! This project challenges reflexes while providing a lighthearted gaming experience.  
+
+### Features  
+- **Choose Your Insect:**  
+  Select from four insect options, each with unique animations.  
+- **Dynamic Gameplay:**  
+  Insects move unpredictably across the screen, keeping you on your toes!  
+- **Score Counter:**  
+  Track your progress with an intuitive score system.  
+- **Animated Surprise Message:**  
+  A special message appears after catching 20 insects.  
+
+### What I Learned  
+- How to handle multiple screen transitions in JavaScript.  
+- Dynamic element creation and positioning using `getRandomLocation()`.  
+- CSS animations and transformations for smooth transitions.  
+- Keeping the gameplay engaging with randomized movements and challenges.  
+
+### Technologies Used  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### How It Works  
+1. **Start the Game:**  
+   - Click the "Play Game" button to begin.  
+2. **Choose Your Insect:**  
+   - Select an insect from the options provided.  
+3. **Catch the Insects:**  
+   - Insects will randomly appear on the screen; click them to score!  
+4. **Unlock the Message:**  
+   - Score 20 points to reveal a fun message!  
+
+### GitHub Repository  
+
+[Day 50 - Insect Catch Game](https://github.com/prashantrajch/50-Projects-In-50-Days/tree/main/Day_50/Insect_Catch_Game)  
+
+![Insect Catch Game](https://github.com/user-attachments/assets/9a676a76-97e0-408c-9ec0-8c5e2a5362ea) 
+
+----
 
 
 ## 💡 Why This Challenge?
